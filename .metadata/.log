@@ -1055,3 +1055,33 @@ java.nio.file.FileSystemException: D:\ASD_Dallas\udemy_design_pattern\workspace\
 	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2322)
 	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-06 22:01:13.396
+!MESSAGE Preparing classpath changed notification builder
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-06 22:01:13.397
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-06 22:01:13.398
+!MESSAGE executing callback sts4.classpath.LpwzDWPt builder true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-06 22:01:13.410
+!MESSAGE executing callback sts4.classpath.LpwzDWPt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-06 22:01:13.411
+!MESSAGE Preparing classpath changed notification builder-handson
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-06 22:01:13.412
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-06 22:01:13.414
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-06 22:01:13.420
+!MESSAGE executing callback sts4.classpath.LpwzDWPt builder-handson false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-06 22:01:13.435
+!MESSAGE executing callback sts4.classpath.LpwzDWPt SUCCESS [done]
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-03-06 22:02:26.203
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.springframework.tooling.ls.eclipse.commons.STS4LanguageServerProcessStreamConnector$1
