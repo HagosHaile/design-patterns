@@ -1,0 +1,23 @@
+2019-03-05 20:11:27,610 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-05 20:20:46,842 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\ASD_Dallas\udemy_design_pattern\workspace\com.cpc.dp.builder\pom.xml
+2019-03-05 20:20:54,477 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy-design-patterns-handson:com.cpc.dp.builder:0.0.1-SNAPSHOT @ D:\ASD_Dallas\udemy_design_pattern\workspace\com.cpc.dp.builder\pom.xml.
+2019-03-05 20:20:57,780 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.cpc.dp.builder/src/main/java
+2019-03-05 20:20:57,872 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.cpc.dp.builder/src/test/java
+2019-03-05 20:20:59,222 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2019-03-05 20:20:59,403 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2019-03-05 20:21:00,216 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2019-03-05 20:21:00,615 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2019-03-05 20:21:01,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-05 20:21:01,848 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ASD_Dallas\udemy_design_pattern\workspace\com.cpc.dp.builder\src\main\resources
+2019-03-05 20:21:01,851 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-05 20:21:01,851 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ASD_Dallas\udemy_design_pattern\workspace\com.cpc.dp.builder\src\test\resources
+2019-03-05 20:26:51,091 [Worker-13: Creating project "udemy-design-patterns-handson"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cpc.dp.builder:udemy-design-patterns-handson:0.0.1-SNAPSHOT @ D:\ASD_Dallas\udemy_design_pattern\workspace\udemy-design-patterns-handson\pom.xml.
+2019-03-05 20:26:57,786 [Worker-13: Creating project "udemy-design-patterns-handson"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /udemy-design-patterns-handson/src/main/java because it overlaps with /udemy-design-patterns-handson/src
+2019-03-05 20:26:57,786 [Worker-13: Creating project "udemy-design-patterns-handson"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /udemy-design-patterns-handson/src/main/resources
+2019-03-05 20:26:57,787 [Worker-13: Creating project "udemy-design-patterns-handson"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /udemy-design-patterns-handson/src/test/java because it overlaps with /udemy-design-patterns-handson/src
+2019-03-05 20:26:57,787 [Worker-13: Creating project "udemy-design-patterns-handson"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /udemy-design-patterns-handson/src/test/resources
+2019-03-05 20:26:59,395 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 20:26:59,413 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-05 20:26:59,424 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 20:26:59,426 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 20:32:19,359 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
