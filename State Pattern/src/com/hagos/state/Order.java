@@ -7,9 +7,14 @@ package com.hagos.state;
 public class Order {
 
 	private OrderState currentState;
+	
+	public Order() {
+		currentState = new New();
+	}
 	public double cancel() {
 		
 		double charges = currentState.handleCancellation();
+		currentState = new Canceled();
 		return charges;
 	}
 	
