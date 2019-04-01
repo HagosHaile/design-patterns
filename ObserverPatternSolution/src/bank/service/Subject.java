@@ -9,7 +9,7 @@ import bank.domain.Account;
 
 
 public class Subject implements ISubject {
-  private Collection<IObserver> observerlist = new ArrayList();
+  private Collection<IObserver> observerlist = new ArrayList<>();
   
   public void addObserver(IObserver observer){
 	  observerlist.add(observer);

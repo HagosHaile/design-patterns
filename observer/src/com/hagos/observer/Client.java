@@ -8,8 +8,6 @@ public class Client {
 		
 		order.attach(price);
 		
-		//QuantityObserver quantity = new QuantityObserver();
-		//order.attach(quantity);
 		
 		order.addItem(200);
 		

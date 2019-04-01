@@ -33,10 +33,13 @@ public class Order {
 		
 		return itemCost - discount + shippingCost;
 	}
-	
+	//notify updates
 	public void addItem(double price) {
 		itemCost +=price;
 		count++;
+//		for(OrderObserver order: observers) {
+//			order.update(this);
+//		}
 		observers.forEach(o->o.update(this)); //sends notification to all observers.
 	}
 	
