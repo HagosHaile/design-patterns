@@ -8643,3 +8643,18 @@ java.lang.NullPointerException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 14:07:39.357
+!MESSAGE Preparing classpath changed notification CompositeLab
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 14:07:39.357
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 14:07:39.361
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 14:07:39.361
+!MESSAGE executing callback sts4.classpath.HyIZBBVy CompositeLab false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 14:07:39.443
+!MESSAGE executing callback sts4.classpath.HyIZBBVy SUCCESS [done]
