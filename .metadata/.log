@@ -8712,3 +8712,87 @@ java.lang.NullPointerException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 18:25:45.683
 !MESSAGE executing callback sts4.classpath.HyIZBBVy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 18:53:44.702
+!MESSAGE Preparing classpath changed notification commandExample-2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 18:53:44.705
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 18:53:44.706
+!MESSAGE executing callback sts4.classpath.HyIZBBVy commandExample-2 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 18:53:44.746
+!MESSAGE executing callback sts4.classpath.HyIZBBVy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 18:54:13.780
+!MESSAGE Preparing classpath changed notification Command
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 18:54:13.780
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 18:54:13.783
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 18:54:13.784
+!MESSAGE executing callback sts4.classpath.HyIZBBVy Command false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 18:54:13.796
+!MESSAGE executing callback sts4.classpath.HyIZBBVy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:14:09.578
+!MESSAGE Preparing classpath changed notification Command
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:14:09.579
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:14:09.579
+!MESSAGE executing callback sts4.classpath.HyIZBBVy Command true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:14:09.591
+!MESSAGE executing callback sts4.classpath.HyIZBBVy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:17:56.361
+!MESSAGE Preparing classpath changed notification CommandProjectSolution
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:17:56.362
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:17:56.364
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:17:56.364
+!MESSAGE executing callback sts4.classpath.HyIZBBVy CommandProjectSolution false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:17:56.374
+!MESSAGE executing callback sts4.classpath.HyIZBBVy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:22:40.564
+!MESSAGE Preparing classpath changed notification CommandProjectSolution
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:22:40.565
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:22:40.566
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:22:40.566
+!MESSAGE executing callback sts4.classpath.HyIZBBVy CommandProjectSolution false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:22:40.579
+!MESSAGE executing callback sts4.classpath.HyIZBBVy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:23:11.769
+!MESSAGE Preparing classpath changed notification CommandProjectSolution
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:23:11.771
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:23:11.772
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:23:11.773
+!MESSAGE executing callback sts4.classpath.HyIZBBVy CommandProjectSolution false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-02 19:23:11.791
+!MESSAGE executing callback sts4.classpath.HyIZBBVy SUCCESS [done]
