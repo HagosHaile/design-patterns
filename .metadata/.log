@@ -11012,3 +11012,54 @@ org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Content is not al
 	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.toExistingOrNewProject(SmartImportJob.java:552)
 	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.run(SmartImportJob.java:205)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:33.623
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:33.631
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@c76762[org.springframework.tooling.boot.ls:1.2.0.201812201040(id=531)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:33.633
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:34.079
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.816
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NYpLSQKD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.817
+!MESSAGE subscribing to classpath changes: sts4.classpath.NYpLSQKD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.819
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.820
+!MESSAGE subsribers = [sts4.classpath.NYpLSQKD]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.821
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.826
+!MESSAGE project Proxy pattern solution ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.827
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.828
+!MESSAGE Preparing classpath changed notification Proxy pattern solution
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.829
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NYpLSQKD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.829
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.835
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:43.836
+!MESSAGE executing callback sts4.classpath.NYpLSQKD Proxy pattern solution false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:37:44.814
+!MESSAGE executing callback sts4.classpath.NYpLSQKD SUCCESS [done]
