@@ -11475,3 +11475,60 @@ Caused by: java.lang.NullPointerException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 13:14:20.224
 !MESSAGE executing callback sts4.classpath.XpAETnjz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 14:24:31.457
+!MESSAGE Preparing classpath changed notification template-method
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 14:24:31.457
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 14:24:31.458
+!MESSAGE executing callback sts4.classpath.XpAETnjz template-method true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 14:24:31.470
+!MESSAGE executing callback sts4.classpath.XpAETnjz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 14:25:28.758
+!MESSAGE Preparing classpath changed notification template-method
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 14:25:28.759
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 14:25:28.762
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 14:25:28.763
+!MESSAGE executing callback sts4.classpath.XpAETnjz template-method false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 14:25:28.775
+!MESSAGE executing callback sts4.classpath.XpAETnjz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 15:47:07.559
+!MESSAGE Preparing classpath changed notification bridge
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 15:47:07.594
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 15:47:07.596
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 15:47:07.597
+!MESSAGE executing callback sts4.classpath.XpAETnjz bridge false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 15:47:07.634
+!MESSAGE executing callback sts4.classpath.XpAETnjz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 15:47:23.813
+!MESSAGE Preparing classpath changed notification bridge
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 15:47:23.814
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 15:47:23.818
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 15:47:23.818
+!MESSAGE executing callback sts4.classpath.XpAETnjz bridge false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 15:47:23.834
+!MESSAGE executing callback sts4.classpath.XpAETnjz SUCCESS [done]

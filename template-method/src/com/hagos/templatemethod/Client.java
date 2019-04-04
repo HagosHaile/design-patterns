@@ -9,8 +9,8 @@ public class Client {
 		order.addItem("Soda", 2.00);
 		order.addItem("closth", 23.00);
 		
-		PrintOrder print = new TextPrint();
-		print.print(order, "txt");
+		PrintOrder print = new HtmlPrinter();
+		print.print(order, "hb.html");
 
 	}
 
