@@ -10,8 +10,7 @@ public class TextMessageCreator extends MessageCreator {
 
 	@Override
 	public Message createMessage() {
-		// TODO Auto-generated method stub
-		return null;
+		return new TextMessage();
 	}
 
 
